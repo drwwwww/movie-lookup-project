@@ -17,7 +17,7 @@ This is my mMovie Lookup project, a Python terminal-based app that lets you sear
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/movie-lookup-cli.git
+git clone https://github.com/drwwwww/movie-lookup-project
 cd movie-lookup-cli
 
 # Set up your environment
